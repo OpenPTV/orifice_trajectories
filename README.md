@@ -13,11 +13,12 @@ OpenPTV consortium, 2013, www.openptv.net
 
 ### How to plot this data:
 
-Matlab:
+1. Unzip the set (1-5)
+2. Using Matlab:
 
 change the location of the directory on line 19 of ```myTraj_Alex ```:
 
-    name=['./WF1/trajPoint.',num2Str(i)];
+    name=['./set1/trajPoint.',num2Str(i)];
 
 change the first and last file: 
 
