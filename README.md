@@ -39,7 +39,7 @@ The data is stored in ```trajPoint``` files which are explained here: <https://g
 
 
 
-using PostPTV (the example is not yet ready, modify <https://github.com/OpenPTV/postptv/blob/master/doc/hdf5_scene_analysis.ipynb> 
+using PostPTV (the example is not yet ready, modify <https://github.com/OpenPTV/postptv/blob/master/examples/hdf5_scene_analysis.ipynb> 
 
 
 
